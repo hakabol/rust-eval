@@ -23,6 +23,12 @@ A simple mathematical expression evaluator written in Rust.
 math-eval = "0.1.0"
 ```
 
+### OR
+
+```bash
+cargo add math-eval
+```
+
 ## Example
 
 ```rust
