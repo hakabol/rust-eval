@@ -32,10 +32,10 @@ cargo add math-eval
 ## Example
 
 ```rust
-use math_eval::evaluate;
+use math_eval::eval;
 
 fn main() {
-    let result = evaluate("2 + 3 * 4");
+    let result = eval("2 + 3 * 4");
     println!("{result}");
 }
 ```
