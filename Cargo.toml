@@ -1,6 +1,10 @@
 [package]
-name = "eval"
+name = "math-eval"
 version = "0.1.0"
 edition = "2024"
-
-[dependencies]
+license = "MIT"
+description = "A mathematical expression evaluator that does sin, cos, tan, log(base 10), ln, +, -, *, /, and ^"
+repository = "https://github.com/hakabol/rust-eval"
+readme = "README.md"
+keywords = ["math", "parser", "calculator", "rust", "eval"]
+categories = ["mathematics", "parser-implementations"]
